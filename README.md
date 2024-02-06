@@ -13,6 +13,7 @@
   <a href="Gmailto:jettyrajesh77@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/rajesh_chowdary_hack_lover"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/TransformwithRajesh44"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/http://x.com/jettychowdary?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="http://x.com/jettychowdary?s=09" height="30" width="40" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
