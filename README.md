@@ -26,7 +26,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
-
+<img align="right" alt="coding" width="400" src="https://growtraffic-bc85.kxcdn.com/blog/wp-content/uploads/2014/11/Hacks-to-Increase-Your-Email-Open-Rates.gif">
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,7 +39,8 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-42759C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-                                                        <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <h3 align="left">Hosting :</h3>
 <div align="left">
   <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -50,11 +51,11 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jettyrajeshchowdary"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jettyrajeshchowdary" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettyrajeshchowdary&langs_count=8&theme=radical" alt=jettyrajeshchowdary />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettyrajeshchowdary&langs_count=8&theme=radical"alt=jettyrajeshchowdary />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jettyrajeshchowdary&show_icons=true&locale=en&theme=radical" alt="jettyrajeshchowdary" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jettyrajeshchowdary&show_icons=true&locale=en&theme=radical"alt="jettyrajeshchowdary" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jettyrajeshchowdary&theme=radical" alt="jettyrajeshchowdary" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jettyrajeshchowdary&theme=radical"alt="jettyrajeshchowdary" /></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
