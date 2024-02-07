@@ -19,6 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/http://x.com/jettychowdary?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="http://x.com/jettychowdary?s=09" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/jetti-rajesh-a02071241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_med" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jetti-rajesh-a02071241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_med" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/profile.php?id=100047819349335&mibextid=zbwkwl https://www.facebook.com/transformwithrajesh44?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100047819349335&mibextid=zbwkwl https://www.facebook.com/transformwithrajesh44?mibextid=zbwkwl" height="30" width="40" /></a><a href="https://www.youtube.com/c/https://youtube.com/@chowdarytechworld?si=nkvbv8lr5zmbhm0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://youtube.com/@chowdarytechworld?si=nkvbv8lr5zmbhm0_" height="30" width="40" /></a><a href="https://instagram.com/https://instagram.com/rajesh_chowdary_hack_lover?igshid=mzmynguynmu2yq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://instagram.com/rajesh_chowdary_hack_lover?igshid=mzmynguynmu2yq==" height="30" width="40" /></a></p>
 
+<img align="right" alt="coding" width="400" src="https://growtraffic-bc85.kxcdn.com/blog/wp-content/uploads/2014/11/Hacks-to-Increase-Your-Email-Open-Rates.gif">
+
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,7 +28,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
-<img align="right" alt="coding" width="400" src="https://growtraffic-bc85.kxcdn.com/blog/wp-content/uploads/2014/11/Hacks-to-Increase-Your-Email-Open-Rates.gif">
+
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
