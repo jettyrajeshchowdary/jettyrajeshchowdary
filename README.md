@@ -3,18 +3,21 @@
 <h3 align="center">A passionate frontend developer and code enthusiast from India.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 Learning Never Stops 🚀
+-🌱 Learning Never Stops 🚀
 
-- 💬 Major Skills **HTML, CSS, JavaScript, Bootstrap , Python**
+ 💬 Major Skills **↘️ HTML ↙️, ↘️ CSS ↙️, ↘️ JAVASCRIPT ↙️, ↘️ BOOTSTRAP ↙️,↘️ PYTHON ↙️**
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/jetti-rajesh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="Gmailto:jettyrajesh77@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/rajesh_chowdary_hack_lover"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/TransformwithRajesh44"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://twitter.com/http://x.com/jettychowdary?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="http://x.com/jettychowdary?s=09" height="30" width="40" /></a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jettyrajeshchowdary&label=Profile%20views&color=0e75b6&style=flat" alt="jettyrajeshchowdary" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jettyrajeshchowdary&theme=juicyfresh" alt="jettyrajeshchowdary" /></a> </p>
+
+<div> <a href="https://twitter.com/http://x.com/jettychowdary?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jetti-rajesh-a02071241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_med" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/jettyrajeshchowdary" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/https://instagram.com/rajesh_chowdary_hack_lover?igshid=mzmynguynmu2yq==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/http://x.com/jettychowdary?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="http://x.com/jettychowdary?s=09" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/jetti-rajesh-a02071241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_med" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jetti-rajesh-a02071241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_med" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/profile.php?id=100047819349335&mibextid=zbwkwl https://www.facebook.com/transformwithrajesh44?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100047819349335&mibextid=zbwkwl https://www.facebook.com/transformwithrajesh44?mibextid=zbwkwl" height="30" width="40" /></a><a href="https://www.youtube.com/c/https://youtube.com/@chowdarytechworld?si=nkvbv8lr5zmbhm0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://youtube.com/@chowdarytechworld?si=nkvbv8lr5zmbhm0_" height="30" width="40" /></a><a href="https://instagram.com/https://instagram.com/rajesh_chowdary_hack_lover?igshid=mzmynguynmu2yq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://instagram.com/rajesh_chowdary_hack_lover?igshid=mzmynguynmu2yq==" height="30" width="40" /></a></p>
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
@@ -43,9 +46,27 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>  <br/>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jettyrajeshchowdary"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jettyrajeshchowdary" /></a></p><br><br>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettyrajeshchowdary&langs_count=8&theme=radical" alt=jettyrajeshchowdary />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jettyrajeshchowdary&show_icons=true&locale=en&theme=radical" alt="jettyrajeshchowdary" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jettyrajeshchowdary&theme=radical" alt="jettyrajeshchowdary" /></p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
 <a href="https://github.com/jettyrajeshchowdary">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettyrajeshchowdary&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/jettyrajeshchowdary">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jettyrajeshchowdary&show_icons=true&theme=dark" />
-</a>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jettyrajeshchowdary&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jettyrajeshchowdary&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jettyrajeshchowdary&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jettyrajeshchowdary&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jettyrajeshchowdary&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jettyrajeshchowdary&theme=elegant"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
