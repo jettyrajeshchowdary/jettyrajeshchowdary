@@ -31,7 +31,7 @@
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" heig40ht=""/> </a>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23039BE5.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
