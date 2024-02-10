@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
 - 💬 Ask me about **Web Development** <br><br>
 - 📫 How to reach me **jettyrajesh77@gmail.com** <br><br>
-<img align="right" alt="coding" width="400" src="https://growtraffic-bc85.kxcdn.com/blog/wp-content/uploads/2014/11/Hacks-to-Increase-Your-Email-Open-Rates.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +23,8 @@
     <a href="https://instagram.com/rajesh_chowdary_hack_lover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajesh_chowdary_hack_lover" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@chowdarytechworld?si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chowdarytechworld" height="30" width="40" /></a></p>
     
-    
+    <img align="right" alt="coding" width="400" src="https://growtraffic-bc85.kxcdn.com/blog/wp-content/uploads/2014/11/Hacks-to-Increase-Your-Email-Open-Rates.gif">
+
     
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
@@ -35,7 +35,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://git-scm.com//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> </div>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    <a href="https://www.android.com/" target="_blank" rel="noreferrer"></a><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  <a href="https://www.android.com/" target="_blank" rel="noreferrer"></a><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </div>
 
 
