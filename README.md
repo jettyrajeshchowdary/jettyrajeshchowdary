@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ↘️↘️↘️↘️ Hi, there ↙️↙️↙️↙️</h1>
+ <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ↘️↘️↘️↘️ Hi, there ↙️↙️↙️↙️</h1>
 <h3 align="center">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=white&vCenter=true&width=435&lines=Hey!+Its+RAJESH+CHOWDARY;Intern+Developer😎" alt="Typing SVG" /> </h3>                                                                         
 <h3 align="center">↘️↘️↘️↘️↘️ A passionate frontend developer and code enthusiast from India.↙️↙️↙️↙️↙️</h3>        
 <img align="right" alt="coding" width="400"                      
