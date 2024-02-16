@@ -65,7 +65,7 @@
 
 <h3 align="left">Hosting :</h3>
 <div align="left">
-  <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+     <a href="[https://html.com/html5/](https://app.netlify.com/teams/jettyrajeshchowdary/overview)" target="_blank" rel="noreferrer"><img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>  <br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
