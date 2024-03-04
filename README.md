@@ -12,7 +12,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jettyrajeshchowdary&label=Profile%20views&color=0e75b6&style=flat" alt="jettyrajeshchowdary" /> </p>
 <p align="left">
-<img src="https://img.shields.io/github/followers/jettyrajeshchowdary?label=followers&style=social"/>  </p>
+<img src="https://img.shields.io/github/followers/jettyrajeshchowdary?label=followers&style=social"/> 
+ <img src="https://img.shields.io/github/stars/jettyrajeshchowdary?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">                                                                                                  </p>
 <p align="left"> <a href="https://twitter.com/jettychowdary?s" target="blank"><img src="https://img.shields.io/twitter/follow/jettychowdary?slogo=twitter&style=for-the-badge" alt="jettychowdary" /></a> </p>
 - 🌱 Learning Never Stops 🚀<br><br>
 
@@ -20,6 +21,7 @@
 - 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
 - 💬 Ask me about **Web Development** <br><br>
 - 📫 How to reach me **jettyrajesh77@gmail.com** <br><br>
+  <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +46,7 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <a href="(https://www.android.com/intl/en_in/)" target="_blank" rel="noreferrer"></a><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </div>
+
 
 <img align="right" alt="coding" width="400" src="https://growtraffic-bc85.kxcdn.com/blog/wp-content/uploads/2014/11/Hacks-to-Increase-Your-Email-Open-Rates.gif">
 
