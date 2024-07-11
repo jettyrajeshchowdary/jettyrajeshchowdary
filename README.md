@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
 - 💬 Ask me about **Web Development** <br><br>
 - 📫 How to reach me **jettyrajesh77@gmail.com** <br><br>
-  <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
