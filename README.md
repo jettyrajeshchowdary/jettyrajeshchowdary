@@ -48,7 +48,7 @@
   </div>
 
 
-<img align="right" alt="coding" width="400" src="https://growtraffic-bc85.kxcdn.com/blog/wp-content/uploads/2014/11/Hacks-to-Increase-Your-Email-Open-Rates.gif">
+
 
 <h3 align="left">Languages :</h3>
 <div align="left">
